@@ -26,24 +26,4 @@ ability to compose simple requirements into more complex ones.
 Installation
 ------------
 
-Flask-Allows is available on `pypi <https://pypi.org/project/flask-allows/>`_ and
-installable with::
-
-    pip install flask-allows
-
-Flask Allows supports 3.8+.
-
-.. note::
-
-    If you are installing ``flask-allows`` outside of a virtual environment,
-    consider installing it with ``pip install --user flask-allows`` rather
-    than using sudo or adminstrator privileges to avoid installing it into
-    your system Python.
-
-
-More Information
-----------------
-
-- For more information, `please visit the documentation <https://flask-allows.readthedocs.io/en/latest/>`_.
-- Found a bug, have a question, or want to request a feature? Here is our `issue tracker <https://github.com/justanr/flask-allows/issues>`_.
-- Need the source code? Here is the `repository <https://github.com/justanr/flask-allows>`_
+Don't use pip install flask-allows. Rather clone this and then install flask-allows locally.
