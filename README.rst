@@ -1,10 +1,3 @@
-.. image:: https://travis-ci.org/justanr/flask-allows.svg?branch=master
-    :target: https://travis-ci.org/justanr/flask-allows
-
-.. image:: https://coveralls.io/repos/github/justanr/flask-allows/badge.svg?branch=master
-    :target: https://coveralls.io/github/justanr/flask-allows?branch=master
-
-
 About this fork of flask-allows
 ============
 This is simply a fork of flask-allows that merged all necessary pull requests to make it compatible with flask 2.
